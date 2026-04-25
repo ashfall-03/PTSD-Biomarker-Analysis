@@ -7,7 +7,7 @@ specifically focusing on the **hypocortisolism hypothesis** in forensic populati
 * **Clinical Application:** These models can assist in identifying biological vulnerabilities 
 in high-risk environments like juvenile detention centers.
 
-![Cortisol Analysis](Figure_1.png)
+![Cortisol Analysis](Figure_2.png)
 ## Tools Used
 * **Language:** Python
 * **Libraries:** Pandas, Seaborn, SciPy, Matplotlib
