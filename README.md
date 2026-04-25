@@ -6,7 +6,8 @@ specifically focusing on the **hypocortisolism hypothesis** in forensic populati
 * **Negative Correlation:** High trauma scores correlate with blunted cortisol reactivity ($r = -0.70$).
 * **Clinical Application:** These models can assist in identifying biological vulnerabilities 
 in high-risk environments like juvenile detention centers.
-![Cortisol Analysis](cortisol_plot.png)
+
+![Cortisol Analysis](Figure_1.png)
 ## Tools Used
 * **Language:** Python
 * **Libraries:** Pandas, Seaborn, SciPy, Matplotlib
